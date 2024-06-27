@@ -1,1 +1,2 @@
 # Feature-engineering-power-transformer-box-cox-and-yeo-johnson
+I checked the effect of Box-Cox and Yeo-Johnson transforms, which are applied to non-normally distributed data. These transformations are particularly useful for enhancing the performance of models like linear regression, Gaussian naive Bayes, and logistic regression, which typically assume or perform better with normally distributed data.
